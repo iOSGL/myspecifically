@@ -9,3 +9,4 @@
 破船之家|[http://beyondvincent.com](http://beyondvincent.com)
 蓝晨钰|[http://gracelancy.com/](http://gracelancy.com/)
 许小帅|[http://imallen.com/](http://imallen.com/)
+Kenshin Cui's Blog|[http://www.cnblogs.com/kenshincui/](http://www.cnblogs.com/kenshincui/)
