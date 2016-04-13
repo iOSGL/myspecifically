@@ -5,3 +5,4 @@
 博主信息 | 博客地址
 ------- | -------
 王巍|[http://onevcat.com/#blog](http://onevcat.com/#blog)
+唐巧|[http://blog.devtang.com](http://blog.devtang.com)
