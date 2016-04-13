@@ -23,4 +23,4 @@ objc中国|[http://objccn.io/](http://objccn.io/)
 
 ## 杂乱
 [app设计尺寸](http://www.25xt.com/appsize)
-Xcode插件管理工具[Alcatraz](http://www.jianshu.com/p/7a2484123bf6)
+- Xcode插件管理工具[Alcatraz](http://www.jianshu.com/p/7a2484123bf6)
