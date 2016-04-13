@@ -4,6 +4,7 @@
 项目名称 | 项目地址
 ------- | -------
 考证宝|[https://github.com/guchengster/kaozhengbao_iphone/tree/master](https://github.com/guchengster/kaozhengbao_iphone/tree/master)
+糖趣(现已更名为云樱)|[https://git.oschina.net/guchengster/tangqu-ios](https://git.oschina.net/guchengster/tangqu-ios)
 
 ## git 关系图
 ![](https://github.com/geng199200/myspecifically/blob/master/git_image/git_tip.jpeg)
