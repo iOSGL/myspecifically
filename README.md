@@ -2,6 +2,6 @@
 工作变动所以把一些平时积攒下来的博客，和一些技术文档整理出来
 
 ## 牛人博客
-博客地址 | 博主信息
+博主信息 | 博客地址
 ------- | -------
-[http://onevcat.com/#blog](http://onevcat.com/#blog)|王巍
+王巍|[http://onevcat.com/#blog](http://onevcat.com/#blog)
