@@ -8,3 +8,4 @@
 唐巧|[http://blog.devtang.com](http://blog.devtang.com)
 破船之家|[http://beyondvincent.com](http://beyondvincent.com)
 蓝晨钰|[http://gracelancy.com/](http://gracelancy.com/)
+许小帅|[http://imallen.com/](http://imallen.com/)
