@@ -31,6 +31,7 @@ objc中国|[http://objccn.io/](http://objccn.io/)
 Kayo's Blog|[http://kayosite.com/](http://kayosite.com/)
 里脊串, POP动画详解 | [http://adad184.com/2015/03/11/intro-to-pop/](http://adad184.com/2015/03/11/intro-to-pop/)
 时间胶囊 | [http://kittenyang.com/magicmove/](http://kittenyang.com/magicmove/)
+程序员说 | [http://www.devtalking.com/archives/](http://www.devtalking.com/archives/)
 ## iOS 书籍
 [iOS核心动画](https://zsisme.gitbooks.io/ios-/content/)
 
