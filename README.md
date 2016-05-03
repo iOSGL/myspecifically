@@ -35,6 +35,7 @@ Kayo's Blog|[http://kayosite.com/](http://kayosite.com/)
 NSHipster(每周更新) | [http://nshipster.cn/](http://nshipster.cn/)
 ## iOS 书籍
 [iOS核心动画](https://zsisme.gitbooks.io/ios-/content/)
+[iOS Filters](https://developer.apple.com/library/mac/documentation/GraphicsImaging/Reference/CoreImageFilterReference/#//apple_ref/doc/filter/ci/CIAdditionCompositing)
 
 ## 杂乱
 [app设计尺寸](http://www.25xt.com/appsize)
