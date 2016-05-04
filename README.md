@@ -46,3 +46,5 @@ Xcode插件管理工具[Alcatraz](http://www.jianshu.com/p/7a2484123bf6)
 网络环境监测[Network Link Conditioner](http://nshipster.cn/network-link-conditioner/)
 
 Ruby 函数计算[http://ruby-doc.org/core-2.2.0/Math.html#method-c-sin](http://ruby-doc.org/core-2.2.0/Math.html#method-c-sin)
+
+编辑GLSL语言在线IDE [http://shdr.bkcore.com/](http://shdr.bkcore.com/)  [http://glslsandbox.com/](http://glslsandbox.com/)
