@@ -33,6 +33,7 @@ Kayo's Blog|[http://kayosite.com/](http://kayosite.com/)
 时间胶囊 | [http://kittenyang.com/magicmove/](http://kittenyang.com/magicmove/)
 程序员说 | [http://www.devtalking.com/archives/](http://www.devtalking.com/archives/)
 NSHipster(每周更新) | [http://nshipster.cn/](http://nshipster.cn/)
+孙源 | [http://blog.sunnyxx.com/](http://blog.sunnyxx.com/)
 ## iOS 书籍
 [iOS核心动画](https://zsisme.gitbooks.io/ios-/content/)
 
