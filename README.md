@@ -40,6 +40,8 @@ Draveness | [http://draveness.me/](http://draveness.me/)
 
 [iOS Filters](https://developer.apple.com/library/mac/documentation/GraphicsImaging/Reference/CoreImageFilterReference/#//apple_ref/doc/filter/ci/CIAdditionCompositing)
 
+[第三方资源库整理] (https://jisen.gitbooks.io/github-oc-libs/content/dong_hua/dong_hua_yin_qing_shi_yong.html)
+
 ## 杂乱
 [app设计尺寸](http://www.25xt.com/appsize)
 
