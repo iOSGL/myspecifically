@@ -42,6 +42,8 @@ Draveness | [http://draveness.me/](http://draveness.me/)
 
 [第三方资源库整理] (https://jisen.gitbooks.io/github-oc-libs/content/dong_hua/dong_hua_yin_qing_shi_yong.html)
 
+[Gir权威指南] (http://www.worldhello.net/gotgit/#id1)
+
 ## 杂乱
 [app设计尺寸](http://www.25xt.com/appsize)
 
