@@ -35,6 +35,7 @@ Kayo's Blog|[http://kayosite.com/](http://kayosite.com/)
 NSHipster(每周更新) | [http://nshipster.cn/](http://nshipster.cn/)
 孙源 | [http://blog.sunnyxx.com/](http://blog.sunnyxx.com/)
 Draveness | [http://draveness.me/](http://draveness.me/)
+Morisunshine's Blog | [Morisunshine's Blog](Morisunshine's Blog)
 ## iOS 书籍
 [iOS核心动画](https://zsisme.gitbooks.io/ios-/content/)
 
