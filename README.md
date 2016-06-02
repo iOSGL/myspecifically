@@ -37,6 +37,7 @@ NSHipster(每周更新) | [http://nshipster.cn/](http://nshipster.cn/)
 Draveness | [http://draveness.me/](http://draveness.me/)
 Morisunshine's Blog | [Morisunshine's Blog](Morisunshine's Blog)
 Limboy(蘑菇街) | [http://limboy.me/](http://limboy.me/)
+bang's | [http://blog.cnbang.net/](http://blog.cnbang.net/)
 ## iOS 书籍
 [iOS核心动画](https://zsisme.gitbooks.io/ios-/content/)
 
