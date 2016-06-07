@@ -61,3 +61,5 @@ Ruby 函数计算[http://ruby-doc.org/core-2.2.0/Math.html#method-c-sin](http://
 POP自定义ScrollView [http://www.cocoachina.com/cms/wap.php?action=article&id=8366](http://www.cocoachina.com/cms/wap.php?action=article&id=8366)
 
 别人整理 [https://github.com/Tim9Liu9/TimLiu-iOS]
+
+git tips [https://github.com/git-tips/tips]
