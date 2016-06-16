@@ -38,6 +38,7 @@ Draveness | [http://draveness.me/](http://draveness.me/)
 Morisunshine's Blog | [Morisunshine's Blog](Morisunshine's Blog)
 Limboy(蘑菇街) | [http://limboy.me/](http://limboy.me/)
 bang's | [http://blog.cnbang.net/](http://blog.cnbang.net/)
+ibireme(YY系列) | [http://blog.ibireme.com/archive/](http://blog.ibireme.com/archive/)
 ## iOS 书籍
 [iOS核心动画](https://zsisme.gitbooks.io/ios-/content/)
 
