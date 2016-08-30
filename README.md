@@ -67,3 +67,5 @@ POP自定义ScrollView [http://www.cocoachina.com/cms/wap.php?action=article&id=
 别人整理 [https://github.com/Tim9Liu9/TimLiu-iOS]
 
 git tips [https://github.com/git-tips/tips]
+git 教程 [https://git-scm.com/book/zh/v1/%E8%B5%B7%E6%AD%A5]
+
