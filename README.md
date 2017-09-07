@@ -18,7 +18,7 @@
 唐巧|[http://blog.devtang.com](http://blog.devtang.com)
 破船之家|[http://beyondvincent.com](http://beyondvincent.com)
 蓝晨钰|[http://gracelancy.com/](http://gracelancy.com/)
-许小帅|[http://imallen.com/](http://imallen.com/)
+许小帅|[http://tech.glowing.com/cn/](http://tech.glowing.com/cn/)
 Kenshin Cui's Blog|[http://www.cnblogs.com/kenshincui/](http://www.cnblogs.com/kenshincui/)
 objc中国|[http://objccn.io/](http://objccn.io/)
 标哥的技术博客|[http://www.henishuo.com/](http://www.henishuo.com/)
